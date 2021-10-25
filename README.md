@@ -4,8 +4,8 @@
 
 ## I'm a Developer, Mentor and Host!
 
-- 🌱 I’m currently studying at Università degli Studi di Firenze
-- 🌱 I’m also currently studying at Harvard University, through online course: CS50
+- 🌱 I’m currently studying at Università degli Studi di Firenze, Computer Science
+- 🌱 I’m also currently studying at Harvard University, through online course: CS50 - Computer Science
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
