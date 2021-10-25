@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" height="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />][linkedin]
 
 <br />
 
