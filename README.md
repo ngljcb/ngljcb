@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
 
 <br />
-<img src="./coder.gif">
+<img src="./xcoding.gif">
 
 ## Languages:
 
