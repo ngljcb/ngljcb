@@ -10,8 +10,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
 
-
 <br />
+<img src="./coder.gif">
 
 ## Languages:
 
