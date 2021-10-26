@@ -1,8 +1,13 @@
-# Hi there, I'm Jake! 👋
+<br />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&lines=HI+THERE!+I'M+JAKE!+;I'M+A+PROFESSIONAL+DEVELOPER;WELCOME+TO+MY+PAGE!&font=Fira%20Code&width=1000&height=45">
+</p>
 
-[<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?color=blue&label=connect%20with%20me&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangelesjacob%2F">](https://linkedin.com/in/angelesjacob)
-
-## I'm a Developer, Mentor and Host!
+<h2> I'm a Developer, Mentor and Host!
+  <a href="https://linkedin.com/in/angelesjacob" alt="LinkedIn" title="LinkedIn">
+    <img align="right" src="https://img.shields.io/twitter/url?color=blue&label=connect%20with%20me&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangelesjacob%2F"/>
+  </a>
+</h2>
 
 - 🎓 I’m currently studying at <b>Università degli Studi di Firenze, Computer Science </b>
 - 💻 I’m also currently studying at <b>Harvard University</b>, through online course: <b>CS50 - Computer Science</b>
@@ -13,7 +18,7 @@
 <br />
 <img src="./xcoder.gif">
 
-## Languages:
+## Languages
 
 [<img align="left" alt="PHP" height="26px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />][webdevplaylist]
 [<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />][webdevplaylist]
@@ -26,7 +31,7 @@
 <br />
 <br />
 
-## Tools:
+## Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
