@@ -3,11 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&lines=HI+THERE!+I'M+JAKE!+;I'M+A+PROFESSIONAL+DEVELOPER;WELCOME+TO+MY+PAGE!&font=Fira%20Code&width=1000&height=45">
 </p>
 
-<h2> I'm a Professional Developer
-  <a href="https://linkedin.com/in/angelesjacob" alt="LinkedIn" title="LinkedIn">
-    <img align="right" src="https://img.shields.io/twitter/url?color=blue&label=connect%20with%20me&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangelesjacob%2F"/>
-  </a>
-</h2>
+<h2>I'm a Professional Developer </h2>
 
 - 🎓 I’m currently studying at <b>Università degli Studi di Firenze, Computer Science </b>
 - 💻 I’m also currently studying at <b>Harvard University</b>, through online course: <b>CS50 - Computer Science</b>
@@ -43,8 +39,12 @@
 [<img align="left" alt="Eclipse" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png" />][webdevplaylist]
 
 <br />
-
 <br />
+
+##
+<a href="https://linkedin.com/in/angelesjacob" alt="LinkedIn" title="LinkedIn">
+    <img src="https://img.shields.io/twitter/url?color=blue&label=connect%20with%20me&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangelesjacob%2F"/>
+</a>
 
 [linkedin]: https://linkedin.com/in/angelesjacob
 [webdevplaylist]: #
