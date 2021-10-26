@@ -1,4 +1,4 @@
-# Hi there, I'm Jake 👋
+# Hi there, I'm Jake! 👋
 
 [<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?color=blue&label=connect%20with%20me&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangelesjacob%2F">](https://linkedin.com/in/angelesjacob)
 
