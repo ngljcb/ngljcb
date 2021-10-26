@@ -1,6 +1,6 @@
 <br />
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&lines=HI+THERE!+I'M+JAKE!+;I'M+A+PROFESSIONAL+DEVELOPER;WELCOME+TO+MY+PAGE!&font=Fira%20Code&width=700&height=45">
+  <img src="./welcome.svg" alt="Welcome to my page!" />  
 </p>
 
 <h2>I'm a Professional Developer </h2>
