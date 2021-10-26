@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&lines=HI+THERE!+I'M+JAKE!+;I'M+A+PROFESSIONAL+DEVELOPER;WELCOME+TO+MY+PAGE!&font=Fira%20Code&width=1000&height=45">
 </p>
 
-<h2> I'm a Developer, Mentor and Host!
+<h2> I'm a Professional Developer
   <a href="https://linkedin.com/in/angelesjacob" alt="LinkedIn" title="LinkedIn">
     <img align="right" src="https://img.shields.io/twitter/url?color=blue&label=connect%20with%20me&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangelesjacob%2F"/>
   </a>
