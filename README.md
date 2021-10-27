@@ -1,6 +1,6 @@
 <br />
 <p>
-  <img src="./welcome.svg" alt="Welcome to my page!" />  
+  <img src="./welcome.svg">  
 </p>
 
 <h2>I'm a Developer </h2>
