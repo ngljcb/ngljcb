@@ -1,3 +1,4 @@
+<br />
 <img src="./welcome-note.svg">
 
 
