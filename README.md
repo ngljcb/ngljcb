@@ -3,7 +3,7 @@
   <img src="./welcome.svg" alt="Welcome to my page!" />  
 </p>
 
-<h2>I'm a Professional Developer </h2>
+<h2>I'm a Developer </h2>
 
 - 🎓 I’m currently studying at <b>Università degli Studi di Firenze, Computer Science </b>
 - 💻 I’m also currently studying at <b>Harvard University</b>, through online course: <b>CS50 - Computer Science</b>
