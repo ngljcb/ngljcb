@@ -44,8 +44,6 @@
 ##
 <img src="./github-contribution-grid-snake.svg">
 
-<br />
-<br />
 
 [linkedin]: https://linkedin.com/in/angelesjacob
 [webdevplaylist]: #
