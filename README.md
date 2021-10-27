@@ -42,9 +42,7 @@
 <br />
 
 ##
-<a href="https://linkedin.com/in/angelesjacob" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.shields.io/twitter/url?color=blue&label=connect%20with%20me&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fangelesjacob%2F"/>
-</a>
+<img src="./github-contribution-grid-snake.svg">
 
 <br />
 <br />
