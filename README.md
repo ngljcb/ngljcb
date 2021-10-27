@@ -1,5 +1,4 @@
-<br />
-<img src="https://readme-typing-svg.herokuapp.com/?size=40&lines=HELLO+WORLD!+I'M+JAKE!;I+AM+A+PROFESSIONAL+DEVELOPER.;WELCOME+TO+MY+PROFILE.&font=Fira%40Code&width=700&height=50">
+<img src="./welcome-note.svg">
 
 
 <h2>I'm a Developer </h2>
