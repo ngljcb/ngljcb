@@ -1,7 +1,6 @@
 <br />
-<p>
-  <img src="./welcome.svg">  
-</p>
+<img src="./welcome.svg">  
+
 
 <h2>I'm a Developer </h2>
 
