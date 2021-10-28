@@ -1,4 +1,6 @@
-<img src="./banner-github.gif">
+<a href="https://linkedin.com/in/angelesjacob">
+  <img src="./banner-github.gif">
+</a>
 
 ##
 
@@ -8,7 +10,11 @@
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
 
 <br />
-<p align="center"><img src="./xcoder.gif"></p>
+<p align="center">
+  <a href="https://github.com/angelesjacob">
+    <img src="./xcoder.gif">
+  </a>
+</p>
 
 ## Languages
 
@@ -38,7 +44,9 @@
 <br />
 
 ##
-<img src="./github-contribution-grid-snake.svg">
+<a href="https://github.com/angelesjacob">
+  <img src="./github-contribution-grid-snake.svg">
+</a>
 
 
 [linkedin]: https://linkedin.com/in/angelesjacob
