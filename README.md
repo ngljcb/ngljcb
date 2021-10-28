@@ -11,7 +11,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/angelesjacob">
+  <a href="#">
     <img src="./xcoder.gif">
   </a>
 </p>
@@ -44,7 +44,7 @@
 <br />
 
 ##
-<a href="https://github.com/angelesjacob">
+<a href="#">
   <img src="./github-contribution-grid-snake.svg">
 </a>
 
