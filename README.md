@@ -1,4 +1,4 @@
-<img src="./test2.gif">
+<img src="./test5.gif">
 
 <br />
 <img src="./welcome-note.svg">
