@@ -1,3 +1,5 @@
+<img src="./test2.gif">
+
 <br />
 <img src="./welcome-note.svg">
 
