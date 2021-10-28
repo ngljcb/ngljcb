@@ -1,5 +1,4 @@
-<img src="./banner_github.gif">
-
+<img src="./banner-github.gif">
 
 ##
 
