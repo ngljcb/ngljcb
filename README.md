@@ -1,10 +1,7 @@
 <img src="./test5.gif">
 
-<br />
-<img src="./welcome-note.svg">
 
-
-<h2>I'm a Developer </h2>
+##
 
 - 🎓 I’m currently studying at <b>Università degli Studi di Firenze, Computer Science </b>
 - 💻 I’m also currently studying at <b>Harvard University</b>, through online course: <b>CS50 - Computer Science</b>
@@ -13,7 +10,7 @@
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
 
 <br />
-<img src="./xcoder.gif">
+<p align="center"><img src="./xcoder.gif"></p>
 
 ## Languages
 
