@@ -41,12 +41,17 @@
 
 ##
 
+<br />
+<br />
 <div align="center">
   <a href="#">
-    <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=angelesjacob&theme=material-palenight"/>
+    <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=angelesjacob&theme=github-light"/>
     <img src="./github-contribution-snake.svg">
   </a>
 </div>
+
+<br />
+<br />
 
 
 
