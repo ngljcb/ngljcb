@@ -10,11 +10,7 @@
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
 
 <br />
-<p align="center">
-  <a href="#">
-    <img src="./xcoder.gif">
-  </a>
-</p>
+
 
 ## Languages
 
@@ -44,9 +40,14 @@
 <br />
 
 ##
-<a href="#">
-  <img src="./github-contribution-grid-snake.svg">
-</a>
+
+<div align="center">
+  <a href="#">
+    <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=angelesjacob&theme=github-light"/>
+    <img src="./github-contribution-snake.svg">
+  </a>
+</div>
+
 
 
 [linkedin]: https://linkedin.com/in/angelesjacob
