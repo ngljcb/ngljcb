@@ -4,6 +4,7 @@
 
 ##
 - 🎓 I’m currently studying at <b>Università degli Studi di Firenze, Computer Science </b>
+- 💻 I’m also currently studying at <b>Harvard University</b>, through online course: <b>CS50 - Computer Science</b>
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
