@@ -1,7 +1,7 @@
 <img src="./gh_banner.gif">
 
 ##
-- 🎓 I’m currently studying at <b>Università di Bologna, Computer Science for Management </b>
+- 🎓 I’m currently studying at <b>Università di Bologna, Computer Science and Management </b>
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
