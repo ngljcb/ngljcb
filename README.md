@@ -1,4 +1,4 @@
-<img src="./gh_banner.gif">
+<img src="./github_new_banner.gif">
 
 ##
 - 🎓 I’m currently studying at <b>Università di Bologna, Computer Science and Management </b>
