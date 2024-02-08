@@ -1,4 +1,6 @@
+<a href="https:/linkedin.com/in/angelesjake" target="_blank">
 <img src="./github_new_banner.gif">
+</a>
 
 ##
 - 🎓 I’m currently studying at <b>Università di Bologna, Computer Science and Management </b>
