@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/angelesjake" target="_blank">
+<a href="#">
 <img src="./github_new_banner.gif">
 </a>
 
