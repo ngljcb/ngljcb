@@ -3,7 +3,7 @@
 </a>
 
 ###
-![](https://komarev.com/ghpvc/?username=ngljcb)
+<a href="https://github.com/ngljcb"> <img src="https://komarev.com/ghpvc/?username=ngljcb"> </a>
 
 ##
 - 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
