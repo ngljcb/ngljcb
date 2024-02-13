@@ -1,11 +1,10 @@
 <a href="#">
 <img src="./kenobi.gif">
 </a>
-
-
 ##
 ![](https://komarev.com/ghpvc/?username=ngljcb)
 
+##
 - 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
