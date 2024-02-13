@@ -13,7 +13,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="#"><img src="https://skillicons.dev/icons?i=vscode,eclipse,github,mongodb,java,php,css,html,js,nodejs"> </a> </p>
+<p align="left"> <a href="#"><img src="https://skillicons.dev/icons?i=java,php,css,html,js,nodejs,vscode,eclipse,github,mongodb"> </a> </p>
 
 
 
