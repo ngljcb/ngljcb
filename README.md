@@ -1,7 +1,7 @@
 <a href="#">
 <img src="./kenobi.gif">
-![](https://komarev.com/ghpvc/?username=ngljcb)
 </a>
+![](https://komarev.com/ghpvc/?username=ngljcb)
 
 ##
 - 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
