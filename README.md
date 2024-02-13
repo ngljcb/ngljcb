@@ -3,7 +3,7 @@
 </a>
 
 ###
-<a href="https://github.com/ngljcb"> <img src="https://komarev.com/ghpvc/?username=ngljcb&style=for-the-badge&color=brightgreen"> </a>
+<a href="#"> <img src="https://komarev.com/ghpvc/?username=ngljcb&style=for-the-badge&color=brightgreen"> </a>
 
 ##
 - 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
