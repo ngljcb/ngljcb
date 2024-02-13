@@ -3,7 +3,7 @@
 </a>
 
 ##
-- 🎓 I’m currently studying at <b>Università di Bologna </b>
+- 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
