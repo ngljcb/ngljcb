@@ -15,8 +15,6 @@
 
 <p align="left"> <a href="#"><img src="https://skillicons.dev/icons?i=vscode,eclipse,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
 
-<br />
-<br />
 
 
 
