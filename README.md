@@ -1,5 +1,5 @@
 <a href="#">
-<img src="./kenobi.gif">
+<img src="./kenobi.gif" width="100%">
 </a>
 
 ###
