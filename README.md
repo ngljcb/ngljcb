@@ -1,5 +1,6 @@
 <a href="#">
-<img src="./github_new_banner.gif">
+<img src="./kenobi.gif">
+![](https://komarev.com/ghpvc/?username=ngljcb)
 </a>
 
 ##
