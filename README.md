@@ -5,7 +5,7 @@
 ###
 <a href="#"> <img src="https://komarev.com/ghpvc/?username=ngljcb&label=Profile%20views&color=0e75b6&style=flat" alt="green emerson" />  </a>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<a href="#"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></a>
 
 ###
 - 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<a href="#"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></a>
 
 ### Languages and Tools
 <br>
@@ -31,7 +31,7 @@
 <br>
 
 ###
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<a href="#"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></a>
 
 <div align="center">
   <a href="#">
@@ -42,10 +42,3 @@
 <br />
 <br />
 
-
-
-[linkedin]: https://linkedin.com/in/angelesjacob
-[webdevplaylist]: #
-[jsplaylist]: #
-[cssplaylist]: #
-[reactplaylist]: #
