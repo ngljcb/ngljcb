@@ -3,7 +3,6 @@
 </a>
 
 ###
-<a href="#"><img src="https://komarev.com/ghpvc/?username=ngljcb&label=Profile%20views&color=0e75b6&style=flat" alt="green emerson" /></a>
 
 <a href="#"><img src="./dBaSKWF.gif" height="20" width="100%"></a>
 
@@ -41,4 +40,7 @@
 
 <br />
 <br />
+<div align="center">
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=ngljcb&label=Profile%20views&color=0e75b6&style=flat" alt="green emerson" /></a>
+</div>
 
