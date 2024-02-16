@@ -3,9 +3,9 @@
 </a>
 
 ###
-<a href="#"> <img src="https://komarev.com/ghpvc/?username=ngljcb&label=Profile%20views&color=0e75b6&style=flat" alt="green emerson" />  </a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=ngljcb&label=Profile%20views&color=0e75b6&style=flat" alt="green emerson" /></a>
 
-<a href="#"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></a>
+<a href="#"><img src="./dBaSKWF.gif" height="20" width="100%"></a>
 
 ###
 - 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
 <br>
 
-<a href="#"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></a>
+<a href="#"><img src="./dBaSKWF.gif" height="20" width="100%"></a>
 
 ### Languages and Tools
 <br>
@@ -31,7 +31,7 @@
 <br>
 
 ###
-<a href="#"><img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></a>
+<a href="#"><img src="./dBaSKWF.gif" height="20" width="100%"></a>
 
 <div align="center">
   <a href="#">
