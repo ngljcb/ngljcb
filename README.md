@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko)](https://github.com/ngljcb/#)
+  [![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko)](https://github.com/ngljcb/#)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngljcb&theme=merko&layout=compact)](https://github.com/ngljcb/#)
   
 </div> 
