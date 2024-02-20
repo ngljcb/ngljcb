@@ -46,10 +46,8 @@
 ###
 <a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
 
-<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ngljcb&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ngljcb/#)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ngljcb&theme=onedark&center=true&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ngljcb/#)
-</div>
 
 ###
 <a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
