@@ -6,7 +6,7 @@
 ###
 <div align="center">  
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&center=true&duration=4700&lines=Over+3+years+of+active+experience.;Always+happy+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&center=true&duration=4700&lines=Over+3+years+of+active+experience.;Always+happy+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://github.com/ngljcb/#)
 </div>
 <a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
 
