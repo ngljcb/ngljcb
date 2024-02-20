@@ -1,5 +1,5 @@
 <a href="#">
-<img src="./asset/kenobi.gif" width="100%">
+<img src="./assets/kenobi.gif" width="100%">
 </a>
 <br/><br/>
 
@@ -8,7 +8,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&center=true&duration=4700&lines=Over+3+years+of+active+experience.;Always+happy+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://github.com/ngljcb/#)
 </div>
-<a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
+<a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
 
 ###
 - 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
@@ -18,7 +18,7 @@
 <br>
 
 
-<!-- <a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
+<!-- <a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
 
 <div align="center">
   
@@ -27,7 +27,7 @@
   
 </div>  -->
 
-<a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
+<a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
 
 ### Languages and Tools
 <br>
@@ -44,17 +44,17 @@
 <br>
 
 ###
-<a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
+<a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ngljcb&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ngljcb/#)
 
 
 ###
-<a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
+<a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
 
 <div align="center">
   <a href="#">
-    <img src="./asset/github-contribution-snake.svg">
+    <img src="./assets/github-contribution-snake.svg">
   </a>
 </div>
 
