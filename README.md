@@ -8,8 +8,8 @@
 
 ###
 - 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
-- 🤝 I’m looking to collaborate with other content creators
-- 🥅 Goals: Contribute more to Open Source projects
+- 🤝 I’m looking to <b>collaborate</b> with other content creators
+- 🥅 Goals: <b>Contribute</b> more to Open Source projects
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
 <br>
 
