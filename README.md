@@ -13,16 +13,15 @@
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
 <br>
 
-###
 
 <a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
 
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko)](https://github.com/ngljcb/#)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngljcb&theme=merko)](https://github.com/ngljcb/#)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko&hide=commits,issues)](https://github.com/ngljcb/#)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngljcb&theme=merko&layout=compact)](https://github.com/ngljcb/#)
   
-</div>
+</div> 
 
 <a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
 
