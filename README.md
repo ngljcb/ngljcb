@@ -1,10 +1,10 @@
 <a href="#">
-<img src="./kenobi.gif" width="100%">
+<img src="./asset/kenobi.gif" width="100%">
 </a>
 
 ###
 
-<a href="#"><img src="./dBaSKWF.gif" height="20" width="100%"></a>
+<a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
 
 ###
 - 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
@@ -15,7 +15,7 @@
 
 ###
 
-<a href="#"><img src="./dBaSKWF.gif" height="20" width="100%"></a>
+<a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
 
 <div align="center">
   
@@ -24,7 +24,7 @@
   
 </div>
 
-<a href="#"><img src="./dBaSKWF.gif" height="20" width="100%"></a>
+<a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
 
 ### Languages and Tools
 <br>
@@ -41,11 +41,11 @@
 <br>
 
 ###
-<a href="#"><img src="./dBaSKWF.gif" height="20" width="100%"></a>
+<a href="#"><img src="./asset/dBaSKWF.gif" height="30" width="100%"></a>
 
 <div align="center">
   <a href="#">
-    <img src="./github-contribution-snake.svg">
+    <img src="./asset/github-contribution-snake.svg">
   </a>
 </div>
 
