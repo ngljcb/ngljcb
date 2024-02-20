@@ -13,6 +13,17 @@
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
 <br>
 
+###
+
+<a href="#"><img src="./dBaSKWF.gif" height="20" width="100%"></a>
+
+<div align="center">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko)](https://github.com/ngljcb/#)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngljcb&theme=merko)](https://github.com/ngljcb/#)
+  
+</div>
+
 <a href="#"><img src="./dBaSKWF.gif" height="20" width="100%"></a>
 
 ### Languages and Tools
