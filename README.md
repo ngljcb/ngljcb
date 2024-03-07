@@ -43,11 +43,13 @@
 </div>
 <br>
 
+<!--
+
 ###
 <a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ngljcb&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ngljcb/#)
-
+-->
 
 ###
 <a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
