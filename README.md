@@ -24,7 +24,7 @@
   
   [![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko&hide=stars)](https://github.com/ngljcb/#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngljcb&theme=merko&layout=compact)](https://github.com/ngljcb/#)
 
-  [![Jake's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ngljcb&theme=merko&limit=8)](https://github.com/ngljcb/#)
+  [![Jake's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ngljcb&theme=merko&limit=5)](https://github.com/ngljcb/#)
   
 </div> 
 
