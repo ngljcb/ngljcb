@@ -20,10 +20,11 @@
 
 <a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
 
-<div align="center">
+<div align="left">
   
-  [![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko)](https://github.com/ngljcb/#)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngljcb&theme=merko&layout=compact)](https://github.com/ngljcb/#)
+  [![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko&hide=stars)](https://github.com/ngljcb/#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngljcb&theme=merko&layout=compact)](https://github.com/ngljcb/#)
+
+  [![Jake's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ngljcb&theme=merko)](https://github.com/ngljcb/#)
   
 </div> 
 
