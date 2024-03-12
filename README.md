@@ -11,7 +11,7 @@
 <a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
 
 ###
-- 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università degli Studi di Bologna </b>
+- 🎓 I’m currently studying at <b>Alma Mater Studiorum | Università di Bologna </b>
 - 🤝 I’m looking to <b>collaborate</b> with other content creators
 - 🥅 Goals: <b>Contribute</b> more to Open Source projects
 - ⚡ Fun fact: I love to play drums and occcasionally do hosting gigs
