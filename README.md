@@ -6,7 +6,7 @@
 ###
 <div align="center">  
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&center=true&duration=4700&lines=Over+3+years+of+active+experience.;Always+happy+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](https://github.com/ngljcb/#)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&center=true&duration=4700&lines=Over+3+years+of+active+experience.;Always+happy+to+learn+new+stuff.;I+am+open+to+new+opportunities.)](#)
 </div>
 <a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
 
@@ -20,11 +20,13 @@
 
 <a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
 
-<div align="left">
-  
-  [![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko&hide=stars)](https://github.com/ngljcb/#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngljcb&theme=merko&layout=compact)](https://github.com/ngljcb/#)
+<div align="center">
 
-  [![Jake's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ngljcb&theme=merko&limit=5)](https://github.com/ngljcb/#)
+  [<img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ngljcb&theme=merko&hide_border=true">](#)
+  [<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngljcb&theme=merko&layout=compact&hide_border=true">](#)
+  
+  [<img align="center" height="139" src="https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko&hide=stars&hide_border=true">](#)
+  [<img align="center" height="139" src="https://github-contributor-stats.vercel.app/api?username=ngljcb&theme=merko&limit=5&hide_border=true">](#)
   
 </div> 
 
