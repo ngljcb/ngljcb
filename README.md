@@ -24,10 +24,7 @@
 
   [<img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ngljcb&theme=merko&hide_border=true">](#)
   [<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngljcb&theme=merko&layout=compact&hide_border=true">](#)
-  
-  [<img align="center" height="139" src="https://github-readme-stats.vercel.app/api?username=ngljcb&theme=merko&hide=stars&hide_border=true">](#)
-  [<img align="center" height="139" src="https://github-contributor-stats.vercel.app/api?username=ngljcb&theme=merko&limit=5&hide_border=true">](#)
-  
+   
 </div> 
 
 <a href="#"><img src="./assets/dBaSKWF.gif" height="30" width="100%"></a>
